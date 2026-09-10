@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+
+I'm Francesco, I'm a mechanical engineerig student    
 
 <!--
 **francescofc/francescofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
